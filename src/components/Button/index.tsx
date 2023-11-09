@@ -15,7 +15,7 @@ const buttonVariants = cva(
           'focus:bg-button-primary-focus focus:border-button-primary-focus ' +
           'disabled:bg-button-disabled disabled:text-foreground-subtle disabled:border-button-disabled',
         secondary:
-          'bg-white text-grey-900 border-border ' +
+          'bg-grey-600 text-grey-900 border-border ' +
           'hover:bg-button-secondary-hover hover:border-button-secondary-border-hover ' +
           'focus:bg-button-secondary-focus focus:border-button-secondary-border-focus ' +
           'disabled:bg-button-secondary-disabled disabled:border-button-secondary-border-disabled disabled:text-foreground-subtle',
