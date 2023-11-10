@@ -6,7 +6,7 @@ import { feedback } from './feedback'
 
 export const button = {
   primary: {
-    DEFAULT: colors.blue['700'],
+    DEFAULT: colors.blue['900'],
     dark: '#FFF',
     hover: {
       DEFAULT: accent.hover.DEFAULT,
